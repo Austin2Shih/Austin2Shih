@@ -23,4 +23,5 @@ I am a 3rd year Comptuer Science and Statistics double major at UC Davis. I have
 Just a quick rundown of my projects.
 ### Moodify - Machine Learning Music Mood Classifier
 My first Machine Learning project which taught me a little about DSP and MIR on the side. Try it out here at [moodify.austinshih.com](https://moodify.austinshih.com/)!
+
 <img src="https://austinshih.com/static/media/moodify.abc2147eaf3f3f341658.png" width="65%">
