@@ -1,6 +1,6 @@
 # Welcome! I’m Austin Shih. Software Engineer | Full Stack
 ## About Me
-I am a 3rd year Comptuer Science and Statistics double major at UC Davis. I have a passion for both engineering and music, so over the years, a lot of my work has been done to learn skills that can help me solve music related problems.
+I am a 3rd year Computer Science and Statistics double major at UC Davis. I have a passion for both engineering and music, so over the years, a lot of my work has been done to learn skills that can help me solve music related problems.
 
 Additionally, I spend most of my time at Davis creating resources and hosting workshops to teach my team of 25 developers full stack web development skills. Once they're ready, they will help me build out an E-store framework as well as an in-house Content Management System for future clients of our club, #include at Davis.
 
